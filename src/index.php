@@ -21,6 +21,8 @@
     </nav>
 </header>
 
+<div>Hola mundo</div>
+
 <section class="text-center py-16 bg-gray-100">
     <h2 class="text-4xl font-semibold text-gray-800 sm:text-2xl">Descubre los Sabores de Marruecos</h2>
     <p class="max-w-xl mx-auto mt-4 text-gray-600 sm:text-sm sm:px-4">Sumérgete en una experiencia culinaria única con nuestros auténticos platos marroquíes, llenos de especias exóticas y sabores vibrantes.</p>
