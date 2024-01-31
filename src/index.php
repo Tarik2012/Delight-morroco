@@ -21,6 +21,8 @@
     </nav>
 </header>
 
+<!-- tercer commot -->
+
 
 <section class="text-center py-16 bg-gray-100">
     <h2 class="text-4xl font-semibold text-gray-800 sm:text-2xl">Descubre los Sabores de Marruecos</h2>
