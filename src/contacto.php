@@ -1,34 +1,7 @@
 
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="./output.css" rel="stylesheet" />
-    <script></script>
-    <title>MorrocDelight</title>
-  </head>
-  <body class="flex flex-col min-h-screen">
-
-  <header  class="h-32 bg-no-repeat flex justify-between items-center p-4 bg-orange-400 bg-cover bg-center">
-
-<!-- Asegúrate de que la ruta de la imagen de fondo sea correcta -->
-
-<div class="logo">
-  <a href="index.php">
-    <img src="../img/logo.png" alt="Logo" class="h-16 w-16 rounded-full object-cover" />
-  </a>
-</div>
-
-
-<nav class="flex text-xl">
-<!-- Navegación -->
-  <a href="index.php" class="text-white hover:text-gray-900 mx-2">Inicio</a>
-  <a href="servicios.html" class="text-white hover:text-gray-900 mx-2">Servicios</a>
-  <a href="blog.php" class="text-white hover:text-gray-900 mx-2">Blog</a>
-  <a href="contacto.php" class="text-white hover:text-gray-900 mx-2">Contacto</a>
-</nav>
-</header>
+<?php
+include('header.php'); // Incluir el footer de tu sitio
+?>
 
     <main id="" class="flex-grow">
       <form

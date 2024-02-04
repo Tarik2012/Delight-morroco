@@ -1,25 +1,14 @@
 
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="./output.css" rel="stylesheet" />
-    <link href="/path/to/tailwind.css" rel="stylesheet">
-
-    <title>MorrocDelight</title>
-</head>
-<body class="flex flex-col min-h-screen">
-<!-- style="height: 12rem; background-image: url('../img/img1.png');" -->
-<header  class="h-32 bg-no-repeat flex justify-between items-center p-4 bg-orange-400 bg-cover bg-center">
+<?php
+include('header.php'); // Incluir el footer de tu sitio
+?>
 
         <!-- Asegúrate de que la ruta de la imagen de fondo sea correcta -->
 
-        <div class="logo">
+        <!-- <div class="logo">
     <a href="index.php">
         <img src="../img/logo.png" alt="Logo" class="h-16 w-16 rounded-full object-cover" />
-    </a>
+    </a> -->
 </div>
 
         
