@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="./output.css" rel="stylesheet" />
+   
     <title>MorrocDelight</title>
 </head>
 <body class="flex flex-col min-h-screen">
@@ -16,7 +17,8 @@
     <nav class="flex text-xl sm:text-sm">
         <a href="index.php" class="text-white hover:text-gray-900 mx-2">Inicio</a>
         <a href="tienda.php" class="text-white hover:text-gray-900 mx-2">Tienda</a>
-        <a href="blog.php" class="text-white hover:text-gray-900 mx-2">Blog de cocina marroquí</a>
+        <a href="blog.php" class="text-white hover:text-gray-900 mx-2">Blog</a>
         <a href="contacto.php" class="text-white hover:text-gray-900 mx-2">Contacto</a>
+        <a href="carrito.php" class="text-white hover:text-gray-900 mx-2">carrito</a>
     </nav>
 </header>
